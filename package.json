@@ -1,0 +1,34 @@
+{
+  "name": "utm-proxy-ross",
+  "version": "1.0.0",
+  "description": "ross proxy-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uteach-me/utm-proxy-ross.git"
+  },
+  "author": "John Roswell Cua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uteach-me/utm-proxy-ross/issues"
+  },
+  "homepage": "https://github.com/Uteach-me/utm-proxy-ross#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  }
+}
