@@ -1,0 +1,12 @@
+#CourseContent {
+    display: inline-block;
+    width: 90%;
+    margin-right: -370px;
+}
+
+#checkout-form {
+    display: inline-block;
+    position: absolute;
+    padding-right: 10%;
+    padding-right: 150px;
+}
