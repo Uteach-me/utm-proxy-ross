@@ -11,7 +11,7 @@ app.use(express.static(path.join(__dirname, '../public')));
 app.use(express.json());
 
 app.get('/entry', (req, res) => {
-  axios.get('http://localhost:3002/entry')
+  axios.get('http://localhost:3001/entry')
     .then((response) => {
       res.send(response.data);
     })
