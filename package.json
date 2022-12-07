@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Uteach-me/utm-proxy-ross#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "morgan": "^1.9.1",
     "nodemon": "^2.0.2",
     "react-dom": "^16.12.0"
